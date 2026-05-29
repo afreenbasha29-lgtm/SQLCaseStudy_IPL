@@ -13,8 +13,6 @@ This repository contains a collection of SQL queries written to analyze an IPL a
 
 The queries explore player valuations, team spending patterns, role-based analysis and comparative statistics across different player categories.
 
----
-
 ## Dataset
 
 The dataset consists of IPL player auction information with the following attributes:
@@ -24,8 +22,6 @@ The dataset consists of IPL player auction information with the following attrib
 * Role
 * Price (in Crores)
 * Player Type (Indian / Overseas)
-
----
 
 ## SQL Problems Solved
 
@@ -55,9 +51,7 @@ The dataset consists of IPL player auction information with the following attrib
 ### Comparative Analysis
 
 * Compare average auction prices of Indian and Overseas players using subqueries.
-
----
-
+  
 ## Key Learning Outcomes
 
 Through this project, I practiced:
@@ -68,12 +62,8 @@ Through this project, I practiced:
 * Structuring complex queries using Common Table Expressions (CTEs).
 * Performing comparative and percentage-based analysis using SQL.
 
----
-
 ## Technologies Used
 MySQL 8.0+
-
----
 
 ## Author
 
